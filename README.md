@@ -1,4 +1,4 @@
-# A simple HTML website template for hosting on GitHub and elsewhere:
+# A simple Free HTML website template for hosting on GitHub and elsewhere:
 
 ![Simple website template in the style of blue sky and drops](images/simple-website-template-sky-style-v1-sample.png)
 
